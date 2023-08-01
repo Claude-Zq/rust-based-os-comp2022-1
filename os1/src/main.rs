@@ -2,6 +2,8 @@
 #![no_main]
 #![feature(panic_info_message)]
 
+// this is a test
+
 use log::*;
 
 #[macro_use]
